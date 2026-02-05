@@ -1,0 +1,1 @@
+from .page_ImageRecognition import imgRecognition
